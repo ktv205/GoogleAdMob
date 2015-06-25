@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GoogleAdMob</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_banner">BannerActivity</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="banner_ad">Banner Ad</string>
+    <string name="interstitial_ad">Interstitial Ad</string>
+    <string name="title_activity_interstitial">InterstitialActivity</string>
+    <string name="load_interstitial">load interstitial</string>
+    <string name="display_intertitial">display interstitial</string>
+    <string name="interstitial_not_ready">Interstitial is not ready</string>
+    <string name="loading_interstitial">Loading the interstitial ad</string>
+</resources>
